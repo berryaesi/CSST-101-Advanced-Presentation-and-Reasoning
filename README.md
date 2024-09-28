@@ -13,7 +13,9 @@ This is for the activities and projects.
 *   Machine Problem 3: Probabilistic Reasoning with Python [Link](https://github.com/berryaesi/CSST101-3B/blob/main/3B_TORRES_MP3.ipynb)
 
 ---
-*   Laboratory Exercise 2: Introduction to Probability in AI [Link](https://github.com/berryaesi/CSST101-3B/blob/main/091024.ipynb)
+
+*   Laboratory Exercise 1: [Link](https://github.com/berryaesi/CSST101-3B/blob/main/3B_TORRES_EXER1.ipynb)
+*   Laboratory Exercise 2: Introduction to Probability in AI [Link](https://github.com/berryaesi/CSST101-3B/blob/main/3B_TORRES_EXER2.ipynb)
 
 ---
 
